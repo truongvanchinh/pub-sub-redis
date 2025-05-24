@@ -1,0 +1,25 @@
+{
+  "name": "pub-sub-redis",
+  "version": "1.0.0",
+  "description": "repo thực hành publish subscribe redis",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truongvanchinh/pub-sub-redis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/truongvanchinh/pub-sub-redis/issues"
+  },
+  "homepage": "https://github.com/truongvanchinh/pub-sub-redis#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "redis": "^5.1.0"
+  }
+}
